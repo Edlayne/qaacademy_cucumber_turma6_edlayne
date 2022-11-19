@@ -1,1 +1,1 @@
-# qaacademy_cucumber_turma6_edlayne
+# qacademy_cucumber_turma6_edlayne
